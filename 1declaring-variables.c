@@ -19,5 +19,7 @@ int main(void)
 
     printf("sample changes");
 
+    printf("sample changes for dev branch");
+
     return 0; // End of main function
 }
