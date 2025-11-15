@@ -17,5 +17,7 @@ int main(void)
     printf("Decimal: %.2f\n", decimal);
     printf("Letter: %c\n", letter);
 
+    printf("sample changes");
+
     return 0; // End of main function
 }
