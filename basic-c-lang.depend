@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1763225036 source:c:\users\chris\desktop\workspace-1\basic-c-lang\declaring-variables.c
+	<stdio.h>
+	<stdlib.h>
+
+1763225036 source:c:\users\chris\desktop\workspace-1\basic-c-lang\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1763225153 source:c:\users\chris\desktop\workspace-1\basic-c-lang\using-operators.c
+	<stdio.h>
+	<stdio.h>
+
